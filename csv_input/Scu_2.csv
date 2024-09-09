@@ -1,0 +1,76 @@
+Key,Value
+Elastic modulus,6483.80485755172
+toughness full,80.17621728294743
+toughness (up to strain 0.4),36.40811498428078
+Ultimate strength,267.66999999999996
+Ultimate strain,0.7773647105997615
+Failure strength,267.65666666666664
+Failure strain,0.7775162105997615
+Plateau stress,93.69356783919598
+Plateau end stress,121.80163819095478
+Plateau end stress (estimate 1),121.80163819095478
+Pleateu end strain (estimate 1),0.019432062111395074
+Plateau end stress (estimate 2),121.80163819095475
+Pleateu end strain (estimate 2),0.06704940651593334
+Plateau end stress (estimate 3),121.8016381909543
+Pleateu end strain (estimate 3),0.7115951098034249
+Yield stress (estimate 1),161.9553381140434
+Yield strain (estimate 1),0.026978441157959353
+Upper limit strain,0.2
+Upper limit stress,71.23333333333333
+Upper limit energy,17.68709864611411
+Upper limit energy efficicency,0.2482980624162018
+Upper limit ideality,1.241373557175316
+Upper limit strain,0.4
+Upper limit stress,102.95333333333333
+Upper limit energy,36.41395768053077
+Upper limit energy efficicency,0.35369381934077676
+Upper limit ideality,0.884212309086577
+Upper limit strain,0.5
+Upper limit stress,89.98333333333333
+Upper limit energy,45.701324547530774
+Upper limit energy efficicency,0.5078865480370155
+Upper limit ideality,1.0156569849492074
+Upper limit strain,0.019432062111395074
+Upper limit stress,125.60666666666667
+Upper limit energy,1.2276152578641089
+Upper limit energy efficicency,0.009773488067491976
+Upper limit ideality,0.5021054582735082
+Upper limit strain,0.019432062111395074
+Upper limit stress,125.60666666666667
+Upper limit energy,1.2276152578641089
+Upper limit energy efficicency,0.009773488067491976
+Upper limit ideality,0.5021054582735082
+Upper limit strain,0.06704940651593334
+Upper limit stress,120.81333333333333
+Upper limit energy,8.491370725447442
+Upper limit energy efficicency,0.07028504628722637
+Upper limit ideality,1.0479995821823116
+Upper limit strain,0.06704940651593334
+Upper limit stress,120.81333333333333
+Upper limit energy,8.491370725447442
+Upper limit energy efficicency,0.07028504628722637
+Upper limit ideality,1.0479995821823116
+Upper limit strain,0.7115951098034249
+Upper limit stress,120.27
+Upper limit energy,67.58910407803077
+Upper limit energy efficicency,0.5619780832961734
+Upper limit ideality,0.7896795742052459
+Upper limit strain,0.7115951098034249
+Upper limit stress,120.27
+Upper limit energy,67.58910407803077
+Upper limit energy efficicency,0.5619780832961734
+Upper limit ideality,0.7896795742052459
+Local maximum Stress 1,165.74908333333332
+Local maximum Strain 1,0.03917588334976156
+Local maximum Stress 2,99.20471666666667
+Local maximum Strain 2,0.31951391159976156
+Local maximum Stress 3,99.61081666666666
+Local maximum Strain 3,0.35276209359976163
+Local maximum Stress 4,102.48873333333333
+Local maximum Strain 4,0.3969916445997616
+Local maximum Stress 5,112.82415
+Local maximum Strain 5,0.5750361250997615
+Local maximum Stress 6,255.13940074906367
+Local maximum Strain 6,0.7727244476784132
+Number of averaged datapoints,71.0
